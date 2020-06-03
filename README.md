@@ -1,3 +1,6 @@
+# Notes (from the future!)
+I made use of Bloodhound from Twitter's Typeahead library and made a PR so that it could be use not only on the frontend but also in NodeJS. It is now available in NodeJS, but I never got credited: https://github.com/twitter/typeahead.js/pull/853
+
 # Busbud Coding Challenge [![Build Status](https://circleci.com/gh/busbud/coding-challenge-backend-c/tree/master.png?circle-token=6e396821f666083bc7af117113bdf3a67523b2fd)](https://circleci.com/gh/busbud/coding-challenge-backend-c)
 
 ## Demo
